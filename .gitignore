@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Definições Pessoais
+dados_13mai2021.csv
